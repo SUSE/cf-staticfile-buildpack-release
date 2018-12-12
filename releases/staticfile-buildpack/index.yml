@@ -5,4 +5,6 @@ builds:
     version: 1.4.33.1
   650cc099-3195-4cea-75e8-f7c3e3ada365:
     version: 1.4.34.1
+  e68e2037-ba69-4a11-7592-21f254324329:
+    version: 1.4.36.1
 format-version: "2"
