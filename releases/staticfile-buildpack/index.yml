@@ -7,6 +7,8 @@ builds:
     version: 1.4.34.1
   88679e86-c45d-4336-6491-a28734739be1:
     version: 1.4.37.1
+  bfd59047-73b4-404e-7c9a-1303288fc10a:
+    version: 1.4.38.1
   e68e2037-ba69-4a11-7592-21f254324329:
     version: 1.4.36.1
 format-version: "2"
