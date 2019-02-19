@@ -11,6 +11,8 @@ builds:
     version: 1.4.37.1
   bfd59047-73b4-404e-7c9a-1303288fc10a:
     version: 1.4.38.1
+  cc02ae5c-cf9f-4789-4e6b-640feb45db62:
+    version: 1.4.39.2
   e68e2037-ba69-4a11-7592-21f254324329:
     version: 1.4.36.1
 format-version: "2"
