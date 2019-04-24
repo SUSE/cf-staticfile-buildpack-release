@@ -21,4 +21,6 @@ builds:
     version: 1.4.39.2
   e68e2037-ba69-4a11-7592-21f254324329:
     version: 1.4.36.1
+  fb29aac7-dc65-401c-79d4-477e1c4191b3:
+    version: 1.4.42.1
 format-version: "2"
