@@ -1,0 +1,4 @@
+---
+name: staticfile-buildpack-sle12
+files:
+- staticfile-buildpack/staticfile-buildpack-sle12-*.zip

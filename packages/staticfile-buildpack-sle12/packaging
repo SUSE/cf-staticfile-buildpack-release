@@ -1,0 +1,2 @@
+    set -e -x
+    cp staticfile-buildpack/staticfile-buildpack-sle12-*.zip ${BOSH_INSTALL_TARGET}
