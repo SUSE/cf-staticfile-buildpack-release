@@ -3,7 +3,6 @@ name: staticfile-buildpack
 templates: {}
 
 packages:
-- staticfile-buildpack-sle12
 - staticfile-buildpack-sle15
 
 properties: {}
