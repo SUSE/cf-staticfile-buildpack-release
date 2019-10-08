@@ -1,5 +1,5 @@
 ---
-final_name: staticfile-buildpack
+final_name: suse-staticfile-buildpack
 blobstore:
   provider: s3
   options:
