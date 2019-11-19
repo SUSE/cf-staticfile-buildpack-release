@@ -1,0 +1,6 @@
+builds:
+  dd6bc53def6e00eceea59308544f260fd09f82fd4405585551b49ab191c2e325:
+    version: dd6bc53def6e00eceea59308544f260fd09f82fd4405585551b49ab191c2e325
+    blobstore_id: 73fb7ed4-e423-47f0-7712-97fd0a953983
+    sha1: sha256:c51b266e11934f1cee3b46bfc6a05c2f6fe1bdccb059f8423a10efafa2264f0f
+format-version: "2"
