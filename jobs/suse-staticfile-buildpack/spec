@@ -1,5 +1,5 @@
 ---
-name: staticfile-buildpack
+name: suse-staticfile-buildpack
 templates: {}
 
 packages:
