@@ -1,5 +1,5 @@
 ---
-staticfile-buildpack/staticfile-buildpack-sle15-v1.5.5.1-5.1-eaf36a02.zip:
-  size: 5278364
-  object_id: staticfile-buildpack-sle15-v1.5.5.1-5.1-eaf36a02.zip
-  sha: sha256:eaf36a0204c9701edc41cc2b4bb5d6997cd7db17ec9861d0137d622491dc15f9
+staticfile-buildpack/staticfile-buildpack-sle15-v1.5.6.1-2.1-a74620df.zip:
+  size: 5278389
+  object_id: staticfile-buildpack-sle15-v1.5.6.1-2.1-a74620df.zip
+  sha: sha256:a74620df08f5842c1cc4fb27a3048f68e28a59268fe9e010e3a7ec62c27f1de3
