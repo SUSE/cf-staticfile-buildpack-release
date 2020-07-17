@@ -1,0 +1,21 @@
+name: suse-staticfile-buildpack
+version: 1.5.9.1
+commit_hash: db42f5d
+uncommitted_changes: false
+jobs:
+- name: suse-staticfile-buildpack
+  version: dd6bc53def6e00eceea59308544f260fd09f82fd4405585551b49ab191c2e325
+  fingerprint: dd6bc53def6e00eceea59308544f260fd09f82fd4405585551b49ab191c2e325
+  sha1: sha256:c51b266e11934f1cee3b46bfc6a05c2f6fe1bdccb059f8423a10efafa2264f0f
+  packages:
+  - staticfile-buildpack-sle15
+packages:
+- name: staticfile-buildpack-sle15
+  version: 5b26454a239930e113b534ac5123f2e3c3d642b20c4fe8396026eaa2d0ca14f2
+  fingerprint: 5b26454a239930e113b534ac5123f2e3c3d642b20c4fe8396026eaa2d0ca14f2
+  sha1: sha256:22d7f2e08f442e8e06f1cb8b4eaf642e977b6e126ed2a48646a4c0cd1f149790
+  dependencies: []
+license:
+  version: 415e3b1a4415a14628e5fe1b59d90fec3c8124387c07b8d3298eaf09958360b9
+  fingerprint: 415e3b1a4415a14628e5fe1b59d90fec3c8124387c07b8d3298eaf09958360b9
+  sha1: sha256:ad880224933e5835d490e441101a9c44729874924a9debc343b5df000528ad10
