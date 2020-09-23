@@ -11,6 +11,8 @@ builds:
     version: 1.5.2.1
   c1d82ab5-80f8-4cc6-4af6-13f8e821242b:
     version: 1.4.45.1
+  e5cfd2a3-f08f-47e0-4f5f-1983042e2922:
+    version: 1.5.11.1
   e734f2b8-d30f-4a2d-70ce-85d6209632a6:
     version: 1.5.0.2
   f60ce7bd-c087-4fb6-73fb-ddfa1fa4a7ee:
